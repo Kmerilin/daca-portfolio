@@ -1,27 +1,27 @@
-MEESKOND: Urbanstyle Operations | NÄDAL: 1 | TEGELANE: Toomas Kask
+# Nädal 1: SQL Basics – UrbanStyle'i andmete uurimine
 
-## ANDMEMAASTIK (Data Landscape)
+## Mida ma tegin
+- Uurisin **sales** ja **products** tabelit SQL päringutega
+- Leidsin, et sales tabelis on 15 234 tehingut ning esineb nii negatiivseid tehinguid kui ka puuduvaid customer_id väärtusi (1487 rida)
+- Products tabelis on 362 toodet 5 kategoorias ning andmekvaliteet on väga hea (puuduvad hinnad ja kategooriad puuduvad)
 
-- sales (tehingud): 15 234 rida, 11 veergu. Peamine leid: esineb nii väga suuri kui ka negatiivseid tehinguid (tõenäolised tagastused) ning 1487 tehingul puudub customer_id, mis viitab puudulikule kliendiinfole.
-
-- customers: 3150 rida, 9 veergu. Peamine leid: kliendiandmed on üldiselt terviklikud ja sobivad analüüsiks, kuid 380 kliendil puudub e-maili aadress, mis võib piirata turundustegevusi ja kliendisuhtlust.
-
-- products: 362 rida, 9 veergu. Peamine leid: tooted jagunevad 5 kategooriasse (jalanõusid, meeste_riided, naiste_riided, laste_riided, aksessuaarid) ning hinnad varieeruvad ligikaudu 13.53€ kuni üle 350€. Andmekvaliteet on hea, sest puuduvaid väärtusi (hind ja kategooria) ei esinenud.
-
----
-
-## SUURIM ÜLLATUS
-
-Suurim üllatus oli see, et 1487 müügitehingul puudus customer_id ning esines ka negatiivseid tehingusummasid, mis viitab tagastustele või andmete korrigeerimisele. Lisaks üllatas, et 380 kliendil puudus e-maili aadress, mis piirab turundusvõimalusi.
+- Osalesin meeskonna andmemaastiku koostamisel, kus võrdlesime müügi-, kliendi- ja tooteandmeid
 
 ---
 
-## SOOVITUS TOOMASELE
-
-Soovitame parandada kliendiandmete kogumist, et vähendada puuduvaid customer_id ja e-maili väärtusi. Samuti tuleks eraldi analüüsida negatiivseid tehinguid, et mõista tagastuste põhjuseid ja vähendada nende mõju müügitulemustele.
+## Peamised õpid
+- Kuidas kasutada SQL päringuid andmete uurimiseks (SELECT, WHERE, ORDER BY, COUNT)
+- Kuidas hinnata andmete kvaliteeti (puuduvad väärtused, nullid, negatiivsed väärtused)
+- Kuidas tõlgendada andmeid äriliselt (tagastused, kliendiinfo puudumine, hinnavahemikud)
 
 ---
 
-## PUUDUVAD ANDMED
+## Failid
+- `week1_sales_products.sql` – minu SQL päringud
 
-Puudub osa kliendiinfost (customer_id ja e-mail), mis mõjutab kliendikäitumise ja turundusanalüüsi täpsust. Samuti puudub selgitus negatiivsete tehingute kohta, mis vajaks eraldi ärilist analüüsi.
+---
+
+## Meeskonna töö
+- Andmemaastiku kokkuvõte: sales, customers ja products andmete analüüs
+- Suurimad leiud: puuduvaid kliendiandmeid ja e-mailide puudumine klientidel
+- Link meeskonna tööle: https://docs.google.com/document/d/1iUIhHFb633tp-EM_9FFwXHfRahRdlWpFiM4qXpgY6Do/edit?tab=t.0

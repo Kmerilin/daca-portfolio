@@ -8,7 +8,8 @@
 
 ## Peamised õpid
 - Päringuid saab ka üksteise järgi sisestada ja run saab ainult ühele päringule sealt teha. 
-- Päringute kommentaarid on väga vajalikud, et hiljem mõista mis oli antud päringute põhjus. 
+- Päringute kommentaarid on väga vajalikud, et hiljem mõista mis oli antud päringute põhjus.
+- Kui nädala alguses tundub kõik segane siis nädala lõpus on asi juba palju loogilisem. 
 
 ## Failid
 - `week1_sales_products_exploration.sql` -- minu SQL päringud

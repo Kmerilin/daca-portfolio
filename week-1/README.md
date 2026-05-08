@@ -12,7 +12,6 @@
 
 ## Failid
 - `week1_sales_products_exploration.sql` -- minu SQL päringud
-- `week1_results_screenshot.png` -- tulemuste pilt
 
 ## Meeskonna töö
 - https://docs.google.com/document/d/1iUIhHFb633tp-EM_9FFwXHfRahRdlWpFiM4qXpgY6Do/edit?tab=t.0

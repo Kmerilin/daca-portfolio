@@ -2,7 +2,7 @@
 
 ## Mida ma tegin
 - Uurisin sales ja products tabelit SQL päringutega
-- Leidsin, et osa kliendiinfost puudub (customer_id). Samuti võiks olla täpsem info tagastuste ja negatiivsete tehingute põhjuste kohta.
+- Leidsin, et osa kliendiinfost puudub (customer_id). Samuti võiks olla täpsem info negatiivsete tehingute põhjuste kohta.
 
 - Osalesin meeskonna andmemaastiku koostamisel
 

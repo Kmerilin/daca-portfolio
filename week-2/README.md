@@ -1,4 +1,4 @@
-# Nädal 2: SQL Basics -- UrbanStyle'i andmete uurimine
+# Nädal 2: SQL Cleaning -- UrbanStyle'i andmete uurimine
 
 	•	Nädala teema ja probleem: Selle nädala fookuses oli UrbanStyle’i andmete puhastamine, kus pidime kõrvaldama kriitilised vead nagu üle 5000 duplikaatse müügirea, puuduvad kliendiandmed (NULL-väärtused) ja ebakorrektsed tuleviku kuupäevad. 
 

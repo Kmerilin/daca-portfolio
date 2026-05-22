@@ -100,8 +100,6 @@ SELECT
 FROM sales s
 JOIN products p ON s.product_id = p.product_id
 WHERE ABS(s.total_price - (p.retail_price * s.quantity)) > 1
-ORDER BY ABS(s.total_price - (p.retail_price * s.quantity)) DESC
-LIMIT 20;
 --Kirjutan üles: 20 müüki ei klapi hind tootehinnaga
 
 -- Kontrollin, kas on kliente, kes pole kunagi ostnud

@@ -26,5 +26,3 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - **Python:** pandas, plotly (tulemas...)
 - **Visualiseerimine:** Power BI / Streamlit (tulemas...)
 - **Tööriistad:** Git, GitHub, VS Code
- 
-

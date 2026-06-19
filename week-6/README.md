@@ -1,5 +1,6 @@
-# NÄDAL 6 
-##Mida ma tegin
+# Nädal 6: Andmete visualiseerimine
+
+## Mida ma tegin
 Lõin interaktiivse dashboard'i, mis keskendub ainult Tartu kauplusele ja
 andmeloo, mis selgitab Tartu langustrendi ning pakub lahendusi.
 
@@ -16,7 +17,7 @@ streamlit run tartu_dashboard.py
 ```
 Avaneb aadressil http://localhost:8501.
 
-##Meeskonna töö: 
+## Meeskonna töö: 
 https://docs.google.com/presentation/d/1z4LPNL1jmZUq7Cw4m29Y-bjUWCAC24PDErt_MBjGw-E/edit
 
 

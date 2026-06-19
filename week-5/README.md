@@ -5,7 +5,8 @@
 - meeskonnatöö
 
 ## Failid
-screenshotid dashboardidest 
+screenshotid dashboardidest
+week 5 charts, dashboard
 
 ## Meeskonna töö
 

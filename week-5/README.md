@@ -5,8 +5,13 @@
 - meeskonnatöö
 
 ## Failid
-screenshotid dashboardidest
-week 5 charts, dashboard
+ceo_dashboard.py
+
+data_loader.py
+
+operations_dashboard.py
+
+app.py 
 
 ## Meeskonna töö
 

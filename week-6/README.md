@@ -1,6 +1,7 @@
 # Mida ma tegin
-Lõin interaktiivse dashboard'i, mis keskendub ainult Tartu kauplusele, ja
-andmeloo, mis selgitab Tartu langustrendi ning pakub lahendusi 
+Lõin interaktiivse dashboard'i, mis keskendub ainult Tartu kauplusele ja
+andmeloo, mis selgitab Tartu langustrendi ning pakub lahendusi.
+
 Track B: Python + Streamlit + Plotly, andmed Supabase'ist.
 
 Dashboardil on oma virtuaalkeskkond

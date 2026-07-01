@@ -1,8 +1,8 @@
 # DACA Portfoolio
  
 **Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** [Merilin]
-**Algus:** [27.04.2026]
+**Osaleja:** Merilin
+**Algus:** 27.04.2026
  
 ## Kirjeldus
  
@@ -32,7 +32,6 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 ### Week 9: Karjääri ettevalmistus
 
- 
 ## Oskused
  
 - **SQL:** PostgreSQL, Supabase

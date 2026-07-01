@@ -5,13 +5,13 @@
 - meeskonnatöö
 
 ## Failid
-ceo_dashboard.py
+- ceo_dashboard.py
 
-data_loader.py
+- data_loader.py
 
-operations_dashboard.py
+- operations_dashboard.py
 
-app.py 
+- app.py 
 
 ## Meeskonna töö
 

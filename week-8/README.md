@@ -11,4 +11,4 @@
 - pipeline.py
 
 ## Meeskonna töö
-- 
+- https://docs.google.com/presentation/d/1kJtM9jM5cdKQg91xikcIb1fakwzNAihSeg23QVzBWsg/edit

@@ -15,14 +15,27 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Supabase seadistamine ✅
  
 ### Week 1: SQL Põhitõed
-- (tulemas...)
- 
+
 ### Week 2: SQL Andmete Puhastamine
-- (tulemas...)
+
+### Week 3: SQL Joins
+
+### Week 4: SQL Agregatsioonid
+
+### Week 5: Visualiseerimise disain
+
+### Week 6: Andmete visualiseerimine
+
+### Week 7: Pyhton + pandas
+
+### Week 8: Pythoni API
+
+### Week 9: Karjääri ettevalmistus
+
  
 ## Oskused
  
 - **SQL:** PostgreSQL, Supabase
-- **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
+- **Python:** pandas, plotly 
+- **Visualiseerimine:** Streamlit 
 - **Tööriistad:** Git, GitHub, VS Code

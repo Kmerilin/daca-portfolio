@@ -13,9 +13,8 @@ Minu ülesanne oli toote-ja müügiandmete puhastamine ja ristvalideerimine ROLL
 - Hõbeda tasemel kliente (560)
 - 1024 klienti ei ole üheski lojaalsusprogrammi tasemes
 - 2 müügikanalit: online (1 006 747) ja pood (1 902 430)
-- Väiksemates linnades eelistavad kliendid rohkem traditsioonilist poes ostlemist
 - Online poe osakaal on suurem kõrgema elanikkonnaga piirkondades 
-- Enim müüke toovad sisse füüsilised poed, mis on kõigis linnades peamine müügikanal
+- Enim müüki toovad sisse füüsilised poed, mis on kõigis linnades peamine müügikanal
 
 ## Tehniline Pinurida
 SQL

@@ -23,7 +23,7 @@ Kuna jalanõude kategoorias on online-kanali keskmine ostusumma kõrgeim, tasub 
 SQL (PostgreSQL/Supabase) — INNER JOIN, GROUP BY, subquery/HAVING
 
 ## 📸 Ekraanipildid
-
+![Nädal 2 tulemused](./screenshot_week-3.png)
 
 ## ▶️ Kuidas Käivitada
 SQL päringud käivitatavad otse andmebaasi konsoolis (fail: `week3_roll_a_myyk_kliendid_turundus.sql`)

@@ -11,7 +11,7 @@ Selle nädala eesmärk oli koondada 10 nädala jooksul tehtud analüüsid üheks
 - Kliendibaas kokku: 3 150 klienti, kellest 380-l puudub e-posti aadress
 - Müügikirjetest 1 487-l puudub customer_id, andmestikus esines 8 tulevikku jäävat kuupäeva (sama vigaste kuupäevade probleem, mille tuvastasin juba week-1, week-5 ja week-7 analüüsides)
 - 599 registreerunud klienti (19% kliendibaasist) pole kunagi ostu sooritanud
-- UrbanStyle teenis 2023–2026 kokku ligikaudu 1,99M€ müügitulu, millest Tallinna kauplus 1,09M€
+- UrbanStyle teenis 2023–2026 kokku ligikaudu 2,9M€ müügitulu, millest Tallinna kauplus 1,09M€
 - Q4 kampaania kasvatas müüki 64 000 euroni — 35% kasv novembriga võrreldes
 - Suurim üllatus: andmekvaliteet (puuduvad kliendi ID-d, ostuta registreerunud kliendid, ebakorrektsed andmed) mõjutas otseselt analüüside usaldusväärsust — see kinnitas läbivalt kogu programmi jooksul kogutud õppetundi.
 

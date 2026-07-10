@@ -16,6 +16,9 @@ Uurisin sales ja products tabeleid SQL päringutega: COUNT, ORDER BY, DISTINCT, 
 - Tootehinnad 13.53€–350€+ vahemikus, hindades ja kategooriates puuduvaid väärtusi ei esinenud
 - store_location sisaldas NULL väärtusi mõne online-tehingu puhul
 
+## 💼 Äriline soovitus
+Enne edasist analüüsi tuleb puuduvad customer_id väärtused (9.8% ridadest) juurutada — kliendisidumata müüki ei saa segmenteerida ega lojaalsusprogrammi arvestada. Samuti tuleb kindlaks teha, kas negatiivsed total_price väärtused on tagastused või andmevead — see mõjutab otseselt käibenumbrite täpsust.
+
 ## 🛠️ Tehniline Pinurida
 SQL (PostgreSQL/Supabase)
 

@@ -23,6 +23,7 @@ Enne edasist analüüsi tuleb puuduvad customer_id väärtused (9.8% ridadest) j
 SQL (PostgreSQL/Supabase)
 
 ## 📸 Ekraanipildid
+![Andmete uurimise tulemus](./screenshot_week-1.png)
 
 
 ## ▶️ Kuidas Käivitada

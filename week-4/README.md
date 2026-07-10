@@ -22,7 +22,7 @@ Kuna lojaalsusprogrammi suurim käive tuleb pikaajalistelt VIP-klientidelt, tule
 SQL (PostgreSQL/Supabase) — CTE, window functions (RANK), CASE WHEN, LEFT JOIN
 
 ## 📸 Ekraanipildid
-
+![Nädal 4 tulemused](./screenshot_week-4.png)
 
 ## ▶️ Kuidas Käivitada
 SQL päringud käivitatavad otse andmebaasi konsoolis (fail: `week-4_roll_b_aggregation.sql`)

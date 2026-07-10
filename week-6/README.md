@@ -21,6 +21,8 @@ Koodis endas juba sõnastatud: Tartu kaupluse audit (asukoht, teenindus, laoseis
 ## 🛠️ Tehniline Pinurida
 Python, Streamlit, Plotly, pandas, Supabase (taaskasutatud Nädal 5 andmekiht)
 
+## 📸 Ekraanipildid
+🔗 **Live dashboard:** https://daca-portfolio-2gyoacedg7bpxxwhxvucpa.streamlit.app/
 
 ## ▶️ Kuidas Käivitada
 
@@ -43,6 +45,7 @@ https://docs.google.com/presentation/d/1z4LPNL1jmZUq7Cw4m29Y-bjUWCAC24PDErt_MBjG
 ## 📁 Failid
 - `tartu_dashboard.py` — Tartu dashboard ja andmelugu
 - `charts_tartu.py` — graafikute abifunktsioonid
+- `theme.py` — värviteema ja Plotly kujundusmall
 
 
 

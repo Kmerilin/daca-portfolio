@@ -1,0 +1,32 @@
+# Salajane — API võtmed, andmebaasi ühendused
+.env
+*.env
+.env.local
+
+# Andmed — ära commit'i suuri või tundlikke andmefaile
+*.csv
+*.xlsx
+data/
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
